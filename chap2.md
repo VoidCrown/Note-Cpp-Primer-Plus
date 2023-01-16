@@ -104,3 +104,10 @@ e.g.`double sqrt(double);`
 - 接受参数
 - 返回值
 - 需要一个原型
+
+<u>*函数命名约定：*</u>
+
+<u>*用大写或下划线区分单词*</u>
+
+`myFunction()` *<u>或</u>* `my_function()` <u>*等*</u>
+
